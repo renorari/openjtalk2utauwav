@@ -1,0 +1,2 @@
+# openjtalk2utauwav
+OpenJtalkを使用し日本語htsvoiceから、UTAU音源のwavを生成する簡易ツール
